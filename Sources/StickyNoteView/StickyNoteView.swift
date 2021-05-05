@@ -36,3 +36,9 @@ public struct StickyNoteView: View {
     }
 }
 
+
+struct StickyNoteView_Previews: PreviewProvider {
+    static var previews: some View {
+        StickyNoteView()
+    }
+}
