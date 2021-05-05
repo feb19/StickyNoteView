@@ -1,6 +1,6 @@
 import SwiftUI
 
-struct StickyNoteView: View {
+public struct StickyNoteView: View {
     var color: Color = .green
     
     public init() {
