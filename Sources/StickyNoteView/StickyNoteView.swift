@@ -2,7 +2,12 @@ import SwiftUI
 
 struct StickyNoteView: View {
     var color: Color = .green
-    var body: some View {
+    
+    public init() {
+        super.
+    }
+    
+    public var body: some View {
         GeometryReader { geometry in
             ZStack {
                 Path { path in

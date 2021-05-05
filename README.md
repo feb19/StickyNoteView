@@ -2,9 +2,8 @@
 
 ```swift
 import SwiftUI
-import StickyNoteView
 
-struct StickyNoteSamplesView: View {
+struct ContentView: View {
     var body: some View {
         Group {
             Text("Hello World!")
