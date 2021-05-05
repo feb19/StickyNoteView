@@ -4,7 +4,6 @@ struct StickyNoteView: View {
     var color: Color = .green
     
     public init() {
-        super.
     }
     
     public var body: some View {
