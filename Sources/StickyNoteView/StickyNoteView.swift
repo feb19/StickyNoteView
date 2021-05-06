@@ -1,8 +1,14 @@
 import SwiftUI
 
 public struct StickyNoteView: View {
-    public var color: Color = .yellow
+    @State var color: Color
+    
     public init() {
+        self.color = Color.yellow
+    }
+    
+    public init(color: Color?) {
+        self.color = color ?? Color.yellow
     }
     
     public var body: some View {
