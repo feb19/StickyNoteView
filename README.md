@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
 
-<img src="./image.png" width="100" alt="Sticky Note View Sample">
+<img src="./image.png" width="160px" alt="Sticky Note View Sample">
 
 ```swift
 import SwiftUI
