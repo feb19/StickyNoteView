@@ -15,7 +15,7 @@ struct ContentView: View {
             HStack {
                 Text("Hello World!")
                     .frame(width: 120, height: 120)
-                    .background(StickyNoteView())
+                    .background(StickyNoteView(color: Color.red))
                 Spacer().frame(width: 10)
                 Text("Hi,\nSticky note.")
                     .frame(width: 120, height: 120)
