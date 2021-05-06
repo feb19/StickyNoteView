@@ -1,7 +1,7 @@
 import SwiftUI
 
 public struct StickyNoteView: View {
-    @State var color: Color
+    @State public var color: Color
     
     public init() {
         self.color = Color.yellow
